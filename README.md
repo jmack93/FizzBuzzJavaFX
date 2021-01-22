@@ -1,4 +1,7 @@
 # FizzBuzzJavaFX
+![](https://user-images.githubusercontent.com/77031044/105545042-a4eb5480-5cc9-11eb-8e82-c729db65ea30.png)
+
+
 A FizzBuzz program in Java with a GUI
 Input a number, press go, and see if you Fizz, Buzz, or FizzBuzz.
 The program will output "fizz" in the result box for numbers divisible by 3.
